@@ -11,4 +11,5 @@ int main() {
     printf("Przeciwprostokatna:%.2f",c);
     printf("proba 45");
     printf("proba 455");
+    printf("proba 4595");
 }
